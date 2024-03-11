@@ -5,6 +5,13 @@ E aí, pessoal! Eu sou o Gabriel Jordão, um amante de dados e entusiasta da tec
 ## Sobre Mim
 Sou aquele cara que adora desvendar padrões nos dados e contar histórias interessantes com eles. Sempre curioso e disposto a encarar desafios, estou sempre buscando aprender e compartilhar o que sei.
 
+## Aproveitamento
+
+<div>
+<a href="https://github.com/lastfirefly">
+<img loading="lazy" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lastfirefly&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 ## Principais Conhecimentos
 - **Análise de Dados**
 - **Python**
