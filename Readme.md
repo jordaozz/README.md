@@ -8,7 +8,7 @@ Sou aquele cara que adora desvendar padrões nos dados e contar histórias inter
 ## Aproveitamento
 
 <div>
-<a href="https://github.com/lastfirefly">
+<a href="https://github.com/jordaozz">
 <img loading="lazy" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lastfirefly&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
