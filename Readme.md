@@ -24,6 +24,6 @@ Aqui, você vai encontrar projetos individuais, explorando desde análises explo
 Nesta parte, compartilho projetos que criei por pura diversão e aprendizado. É onde testo novas tecnologias, experimento ideias malucas e coloco minha criatividade para funcionar.
 
 ## LinkedIn
-[LinkedIn](https://www.linkedin.com/in/gabrieljordao/)
+<a href="https://www.linkedin.com/in/gabrieljordao/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Linkedin-1167fa?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 Valeu por passar aqui! Espero que encontre algo interessante e inspirador. 💤
