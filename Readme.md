@@ -1,4 +1,4 @@
-<span style="color:blue"># Bem-vindo ao Meu Perfil do GitHub! 💤</span>
+# Bem-vindo ao Meu Perfil do GitHub! 💤
 
 E aí, pessoal! Eu sou o Gabriel Jordão, um amante de dados e entusiasta da tecnologia. Aqui no meu cantinho do GitHub, você vai encontrar uma mistura de projetos e trabalhos que refletem minha paixão por análise de dados, programação em Python, SQL, Power BI e Tableau.
 
